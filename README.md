@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Nov 24 -30, 2025
+- Facilitator: @Jian Qiang Zhang
 
 ## Class Resources
 
